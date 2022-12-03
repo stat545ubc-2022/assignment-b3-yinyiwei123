@@ -8,9 +8,9 @@ Assignment B4 :https://ks8v1w-yiwei-yin.shinyapps.io/assignmentb4/
 
 ## Assignment Option
 
-Option B - my own Shiny app **code in assignment_3**
+Option B - my own Shiny app -**code in assignment_3**
 
-Option C - Shiny app(assignemtn B4) ** code in B4**
+Option C - Shiny app(assignemtn B4) - **code in B4**
 
 
 ## Application Description
