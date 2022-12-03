@@ -3,9 +3,8 @@ library(shiny)
 library(tidyverse)
 library(ggplot2)
 library(palmerpenguins)
-
-
 data("penguins")
+library(rsconnect)
 ui <- fluidPage(
 #Feature1: add picture to the title page
   titlePanel(title = div(img(width = "15%", src="penguin.jpg"),"Penguins Weight & Flipper Length")),
