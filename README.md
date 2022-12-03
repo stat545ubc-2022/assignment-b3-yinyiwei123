@@ -2,7 +2,8 @@
 
 ## App Link
 Assignment B3 :http://ks8v1w-yiwei-yin.shinyapps.io/assignment_3
-Assignment B4:
+
+Assignment B4 :https://ks8v1w-yiwei-yin.shinyapps.io/assignmentb4/
 
 
 ## Assignment Option
